@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a Junior software engineer intersted in (Devops - backedend) <br><br>
+🔭 I’m currently a Junior software engineer intersted in (Devops - Backend) <br><br>
 👨‍💻 All of my projects are available at [Repositories](https://github.com/Youssefelsawy?tab=repositories)<br><br>
 📫 You can reach me at yosefelsawy406@gmail.com <br><br>📄 Check [My CV](https://drive.google.com/drive/folders/1xcTqf6gqk0uHezxHqN49bY0C32JwFkRF?usp=share_link) for more info<br><br>
 
